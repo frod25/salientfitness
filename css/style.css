@@ -904,7 +904,7 @@ header {
   }
 
   #break {
-      display: hidden;
+      display: none;
   }
 
 }
