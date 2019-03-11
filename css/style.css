@@ -903,27 +903,10 @@ header {
       margin-left: 0px;
   }
 
-
-
-  .blog-author .media .media-left {
-      display: block;
-      padding-right: 0;
-      margin-bottom: 20px;
-  }
-  .blog-author .media {
-      text-align: center;
-  }
-  .blog-author .media .media-heading .author-social {
-      margin-top: 10px;
-      float: none;
-  }
-  .blog-author .media .media-left img {
-      margin: auto;
+  .break {
+      display: hidden;
   }
 
-  .blog-comments .media .media {
-      margin:0px -15px;
-  }
 }
 
 
